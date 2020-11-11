@@ -1,0 +1,4 @@
+- finish cv
+- add code snippets section
+- re-enable blog posts and add content
+- add Javascript animations (p5.js)
