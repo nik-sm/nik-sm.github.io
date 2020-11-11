@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/nik-sm/nik-sm.github.io.svg?branch=master)](https://travis-ci.com/nik-sm/nik-sm.github.io)
+
 # Setup
 
 First, install `rbenv` and `ruby-build`. (See [dotfiles](https://github.com/nik-sm/dotfiles) for example)
