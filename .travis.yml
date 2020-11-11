@@ -1,6 +1,11 @@
+language: ruby
+rvm:
+  - 2.7.2
+script:
+  bundle exec jekyll build
 deploy:
   provider: pages
-  skip_cleanup: true
+  cleanup: false
   github_token: $GITHUB_TOKEN
   keep_history: true
   on:
